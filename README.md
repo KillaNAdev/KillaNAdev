@@ -1,5 +1,5 @@
 # Hey I'm Aspect 
-[![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/SHz9z3G4e2) 
+[![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/vAyNySyXCx) 
 ![](https://komarev.com/ghpvc/?username=MegatonDev&label=Views&color=lightgrey&style=flat)
 [![Badge](https://img.shields.io/badge/TEAM-Falcon%20DEVELOPMENT-17a6ec?style=for-the-badge)](https://github.com/AsepctDEVS)
 
