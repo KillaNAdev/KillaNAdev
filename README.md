@@ -2,8 +2,6 @@
 [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/vAyNySyXCx) 
 ![](https://komarev.com/ghpvc/?username=MegatonDev&color=151515&label=Visitors)
 [![Badge](https://img.shields.io/badge/TEAM-Falcon%20DEVELOPMENT-17a6ec?style=for-the-badge)](https://github.com/AsepctDEVS)
-
-Future: Software Engineer.
 ---
 <p align="center">
 <a href="https://github.com/AsepctDEVS">
