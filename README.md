@@ -1,6 +1,6 @@
 # Hey I'm Aspect 
 [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/vAyNySyXCx) 
-![](https://komarev.com/ghpvc/?username=MegatonDev&label=Views&color=lightgrey&style=flat)
+![](https://komarev.com/ghpvc/?username=MegatonDev&color=151515&label=Visitors)
 [![Badge](https://img.shields.io/badge/TEAM-Falcon%20DEVELOPMENT-17a6ec?style=for-the-badge)](https://github.com/AsepctDEVS)
 
 Future: Software Engineer.
@@ -14,6 +14,11 @@ Future: Software Engineer.
    <img src="https://discord.c99.nl/widget/theme-2/422241858224128011.png">
 </p>
 
+
 ---
 ## Giving out 🍪, To People that follow me!
 ---
+
+```zsh
+>  check out my repos 👇
+```
