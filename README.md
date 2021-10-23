@@ -12,11 +12,6 @@
    <img src="https://discord.c99.nl/widget/theme-2/422241858224128011.png">
 </p>
 
-
----
-## Giving out 🍪, To People that follow me!
----
-
 ```zsh
->  check out my repos 👇
+>  Giving out 🍪, To People that follow me!
 ```
