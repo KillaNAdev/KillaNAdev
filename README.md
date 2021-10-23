@@ -1,4 +1,4 @@
-# Hey I'm Aspect 
+# Hey I'm Aspect  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/vAyNySyXCx) 
 ![](https://komarev.com/ghpvc/?username=MegatonDev&color=151515&label=Visitors)
 [![Badge](https://img.shields.io/badge/TEAM-Falcon%20DEVELOPMENT-17a6ec?style=for-the-badge)](https://github.com/AsepctDEVS)
